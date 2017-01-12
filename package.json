@@ -1,0 +1,24 @@
+{
+  "name": "jstpie5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Procfile.js",
+  "dependencies": {
+    "alexa-app-server": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstpie5/jstpie5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jstpie5/jstpie5/issues"
+  },
+  "homepage": "https://github.com/jstpie5/jstpie5#readme"
+}
